@@ -44,8 +44,7 @@ Additional configuration and project files:
 
 - PHP 8+ (Laravel Framework)  
 - MySQL  
-- HTML5 / CSS3 / JavaScript  
-- CSS
+- HTML5 / CSS3 / JavaScript 
 - PHPUnit for testing  
 
 ---
