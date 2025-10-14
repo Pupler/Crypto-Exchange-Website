@@ -2,8 +2,6 @@
 
 **Crypto-Exchange-Website** is a cryptocurrency exchange web application built with **PHP (Laravel)**. This project demonstrates a trading interface, database management, and responsive web design. It was designed as a **portfolio project** to showcase web development skills and familiarity with modern web technologies.
 
----
-
 ## 🗂 Project Structure
 
 - **app/** – Contains the main application logic, controllers, models, and services.  
@@ -16,7 +14,7 @@
 - **storage/** – Logs, cache, and compiled templates.  
 - **tests/** – PHPUnit tests for application functionality.  
 
-Additional configuration and project files:  
+### Additional configuration and project files:  
 
 - **.editorconfig** – Editor configuration.  
 - **.env.example** – Example environment variables.  
@@ -29,8 +27,6 @@ Additional configuration and project files:
 - **phpunit.xml** – PHPUnit configuration.  
 - **postcss.config.js / tailwind.config.js / vite.config.js** – Frontend build configuration for TailwindCSS and Vite.
 
----
-
 ## ⚙️ Features
 
 - Cryptocurrency trading interface  
@@ -38,16 +34,12 @@ Additional configuration and project files:
 - Responsive web design using CSS  
 - Portfolio demonstration of full-stack web development skills  
 
----
-
 ## 🛠 Technology Stack
 
 - PHP 8+ (Laravel Framework)  
 - MySQL  
 - HTML5 / CSS3 / JavaScript 
 - PHPUnit for testing  
-
----
 
 ## 🚀 Installation, Testing & Notes
 
@@ -76,8 +68,6 @@ npm run dev
 # Run PHPUnit tests
 php artisan test
 ```
-
----
 
 ## 📝 Notes
 #### This project is a portfolio project and may not include full production-level features.
