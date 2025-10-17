@@ -4,28 +4,32 @@
 
 ## 🗂 Project Structure
 
-- **app/** – Contains the main application logic, controllers, models, and services.  
-- **bootstrap/** – Framework bootstrap files.  
-- **config/** – Configuration files for Laravel.  
-- **database/** – Migrations, seeders, and database-related logic.  
-- **public/** – Publicly accessible files, including CSS, JavaScript, and images.  
-- **resources/** – Views, language files, and frontend assets.  
-- **routes/** – Application route definitions (`web.php`, `api.php`).  
-- **storage/** – Logs, cache, and compiled templates.  
-- **tests/** – PHPUnit tests for application functionality.  
+| Folder / File | Description |
+|----------------|-------------|
+| **app/** | Contains the main application logic, controllers, models, and services. |
+| **bootstrap/** | Framework bootstrap files. |
+| **config/** | Configuration files for Laravel. |
+| **database/** | Migrations, seeders, and database-related logic. |
+| **public/** | Publicly accessible files, including CSS, JavaScript, and images. |
+| **resources/** | Views, language files, and frontend assets. |
+| **routes/** | Application route definitions (`web.php`, `api.php`). |
+| **storage/** | Logs, cache, and compiled templates. |
+| **tests/** | PHPUnit tests for application functionality. |
 
-### Additional configuration and project files:  
+```Additional Configuration and Project Files:```
 
-- **.editorconfig** – Editor configuration.  
-- **.env.example** – Example environment variables.  
-- **.gitattributes** – Git attributes configuration.  
-- **.gitignore** – Ignored files for Git.  
-- **README.md** – Project documentation.  
-- **artisan** – Laravel command-line interface.  
-- **composer.json / composer.lock** – PHP dependencies and package versions.  
-- **package.json** – Node.js dependencies.  
-- **phpunit.xml** – PHPUnit configuration.  
-- **postcss.config.js / tailwind.config.js / vite.config.js** – Frontend build configuration for TailwindCSS and Vite.
+| File | Description |
+|------|-------------|
+| **.editorconfig** | Editor configuration. |
+| **.env.example** | Example environment variables. |
+| **.gitattributes** | Git attributes configuration. |
+| **.gitignore** | Ignored files for Git. |
+| **README.md** | Project documentation. |
+| **artisan** | Laravel command-line interface. |
+| **composer.json / composer.lock** | PHP dependencies and package versions. |
+| **package.json** | Node.js dependencies. |
+| **phpunit.xml** | PHPUnit configuration. |
+| **postcss.config.js / tailwind.config.js / vite.config.js** | Frontend build configuration for TailwindCSS and Vite. |
 
 ## ⚙️ Features
 
