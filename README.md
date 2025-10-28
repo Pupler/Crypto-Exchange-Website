@@ -78,7 +78,7 @@ php artisan test
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📝 Notes
+## ℹ️ Notes
 
 This project is a portfolio project and may not include full production-level features.
 It is designed to demonstrate practical knowledge of Laravel, database handling, and frontend integration.
