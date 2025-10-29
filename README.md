@@ -31,7 +31,7 @@
 | `phpunit.xml` | PHPUnit configuration. |
 | `postcss.config.js`, `tailwind.config.js`, `vite.config.js` | Frontend build configuration for TailwindCSS and Vite. |
 
-## ⚙️ Features
+## ✨ Features
 
 - Cryptocurrency trading interface  
 - Database-driven application logic  
