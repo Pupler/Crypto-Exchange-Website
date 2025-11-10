@@ -5,6 +5,7 @@
 ## 📸 Preview
 
 <img width="1903" height="1080" alt="grafik" src="https://github.com/user-attachments/assets/c9911f1d-c36a-4cf7-88f3-b4e7dfa72337" />
+<img width="1903" height="1030" alt="grafik" src="https://github.com/user-attachments/assets/79ba0f6d-40bf-47dd-9ce1-3fe9636819d0" />
 
 ## 🗂 Project Structure
 
