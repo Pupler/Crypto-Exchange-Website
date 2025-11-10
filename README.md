@@ -2,6 +2,10 @@
 
 **Crypto-Exchange-Website** is a cryptocurrency exchange web application built with **PHP (Laravel)**. This project demonstrates a trading interface, database management, and responsive web design. It was designed as a **portfolio project** to showcase web development skills and familiarity with modern web technologies.
 
+## 📸 Preview
+
+<img width="1903" height="1080" alt="grafik" src="https://github.com/user-attachments/assets/c9911f1d-c36a-4cf7-88f3-b4e7dfa72337" />
+
 ## 🗂 Project Structure
 
 | Folder / File | Description |
